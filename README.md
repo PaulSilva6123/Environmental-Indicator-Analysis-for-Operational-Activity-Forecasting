@@ -12,7 +12,7 @@ The analysis revealed that elevated wind conditions consistently impacted survei
 
 ## Leading Indicator Analysis
 
-![Leading Indicator Analysis](leading-indicator-analysis.jpeg)
+![Leading Indicator Analysis](leading_indicator_analysis)
 
 ---
 
