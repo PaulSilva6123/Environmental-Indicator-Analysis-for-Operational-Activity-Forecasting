@@ -10,6 +10,10 @@ The analysis revealed that elevated wind conditions consistently impacted survei
 
 ---
 
+![Leading Indicator Analysis](OPERATIONAL FORECASTING ANALYSIS(1).png)
+
+---
+
 ## Business Problem
 
 A critical surveillance asset provided enhanced visibility during daily operations, and personnel observed that activity levels appeared to increase during periods when the asset was unavailable. However, there was no analytical process to explain why these outages occurred or determine whether periods of elevated activity could be anticipated in advance.
