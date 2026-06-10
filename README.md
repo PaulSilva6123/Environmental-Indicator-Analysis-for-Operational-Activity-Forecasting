@@ -10,7 +10,7 @@ The analysis revealed that elevated wind conditions consistently impacted survei
 
 ---
 
-![Leading Indicator Analysis](OPERATIONAL FORECASTING ANALYSIS (1).JPG)
+![Leading Indicator Analysis](DATA VISUAL)
 
 ---
 
